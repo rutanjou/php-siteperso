@@ -10,6 +10,7 @@ function getContent(){
 	if(!isset($_GET['page'])){
 		include __DIR__.'/../pages/home.php';
 	} else {
+		include __DIR__.'/../pages/bio.php';
 		// le reste du code
 	}
 }
