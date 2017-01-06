@@ -1,1 +1,1 @@
-Mon contact: numéro de potable; email; adresse etc.
+<h2>Mon contact: numéro de potable; email; adresse etc...</h2>
