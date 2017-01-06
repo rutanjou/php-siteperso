@@ -6,9 +6,5 @@
 	<title>php-siteperso</title>
 </head>
 <body>
-<li><a href="../pages/contact.php?p=contact">contact</a></li>
-<li><a href="../pages/bio.php?page=bio">bio</a></li>
 
-<?php 
-include 'menu.php' ?>
-	
+<?php include 'menu.php' ?>	
